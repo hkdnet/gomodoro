@@ -1,0 +1,5 @@
+---
+pomodoro: 25
+break: 5
+pre: terminal-notifier -message "Start pomodoro"
+post: terminal-notifier -message "Time up!"
